@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevekinney/fem-bookmarker.git"
+    "url": "git+https://github.com/kccrs/bookmarker"
   },
   "keywords": [],
   "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevekinney/fem-bookmarker/issues"
+    "url": "https://github.com/kccrs/bookmarker/issues"
   },
-  "homepage": "https://github.com/stevekinney/fem-bookmarker#readme",
+  "homepage": "https://github.com/kccrs/bookmarker#readme",
   "dependencies": {
     "electron": "^1.4.6"
   },
